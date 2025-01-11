@@ -1,0 +1,67 @@
+.dishes{   
+    display: flex;   
+    justify-content: space-around;   
+       
+}   
+body{   
+    text-align: center;   
+    background-color:#FBEAF7 ;   
+}   
+.dish{   
+    padding: 30px;   
+    background-color:#FDE6C2 ;   
+    padding-bottom: 50px;   
+    margin-bottom: 56px   
+}   
+a{  
+    text-decoration: none;  
+  
+}  
+h2{   
+    background-color:#E894C4 ;   
+    padding: 10px;   
+    margin-bottom: 20px;  
+    color: #8a1156;  
+}   
+h2:hover{ 
+    background-color: #d255a0; 
+} 
+   
+.img_header{   
+width: 100px;   
+height: 100px;   
+   
+}   
+.header{   
+    background-color: #E894C4;   
+    text-align: center;   
+}   
+.h1_cooking_team{   
+    color: #A35985;   
+}   
+.h3_header{   
+    padding: 20px;   
+    background-color: #da81b7;   
+    border-radius: 20px;   
+    color: #8a1156;  
+    width: 150px;
+    font-size: 27px;
+}   
+ 
+.recept{   
+    background-color: #da81b7;   
+    border-radius: 20px;   
+    margin-top: 120px;   
+    margin-left: 530px;   
+    margin-right: 535px;   
+} 
+.dish{ 
+    transition-property: transform; 
+    transition-duration: 1.5s; 
+    transform: scale(1); 
+} 
+.dish:hover{ 
+    transition-property: transform; 
+    transition-duration: 1.5s; 
+    transform: scale(1.1); 
+}
