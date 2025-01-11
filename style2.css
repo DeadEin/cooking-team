@@ -1,0 +1,35 @@
+body {
+    text-align: center; 
+    background-color:#FBEAF7 ;
+}
+h1 {
+    font-size: 43px;
+    text-align: left;
+    color: #8a1156;
+}
+a {
+    text-decoration: none;
+}
+.return {
+    background-color: #b92c7c;
+    color: white;
+    border-radius: 10px; 
+    height: 60px;
+    width: 230px;
+    margin-left: 1025px;
+    margin-bottom: 50px;
+}
+h2 {
+    font-size: 36px;
+    text-align: left;
+    color: #b1126c;
+}
+img {
+    height:470px;
+    width:750px;
+    border-radius: 15px;
+}
+p {
+    font-size: 25px;
+    color: #b92c7c;
+}
